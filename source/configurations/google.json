@@ -1,0 +1,22 @@
+{
+  "description": "Icons for Google products such as: Chrome, Android Browser, Google TV",
+  "manifest": "manifest.json",
+  "rel": "icon",
+  "icons": [
+    {
+      "size": 96,
+      "name": "favicon-96.png",
+      "description": "GoogleTV"
+    },
+    {
+      "size": 128,
+      "name": "favicon-128.png",
+      "description": "Chrome Webstore"
+    },
+    {
+      "size": 196,
+      "name": "favicon-196.png",
+      "description": "Chrome for Android"
+    }
+  ]
+}

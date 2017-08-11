@@ -1,0 +1,15 @@
+{
+  "description": "Icons for Microsoft products such as: IE*, Edge, Windows Phone",
+  "icons": [
+    {
+      "size": 195,
+      "name": "favicon-195.png",
+      "description": "Opera Speed Dial"
+    },
+    {
+      "size": 228,
+      "name": "favicon-228.png",
+      "description": "Opera Coast"
+    }
+  ]
+}

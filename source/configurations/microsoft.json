@@ -1,0 +1,15 @@
+{
+  "description": "Icons for Microsoft products such as: IE*, Edge, Windows Phone",
+  "icons": [
+    {
+      "size": 128,
+      "name": "favicon-128.png",
+      "description": "Small Windows 8 Star Screen Icon"
+    },
+    {
+      "size": 144,
+      "name": "favicon-144.png",
+      "description": "IE10 Metro tile for pinned site"
+    }
+  ]
+}

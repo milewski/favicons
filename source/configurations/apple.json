@@ -1,0 +1,32 @@
+{
+  "description": "Icons for Apple products such as: iPhone, iPad, Safari",
+  "rel": "apple-touch-icon",
+  "icons": [
+    {
+      "size": 76,
+      "name": "favicon-76.png",
+      "description": "iPad home screen icon"
+    },
+    {
+      "size": 120,
+      "name": "favicon-120.png",
+      "description": "iPhone Retina (iOS 7)"
+    },
+    {
+      "size": 152,
+      "name": "touch-icon-ipad.png",
+      "description": "iPad Retina (iOS 7)"
+    },
+    {
+      "size": 167,
+      "name": "touch-icon-ipad-retina.png",
+      "description": "iPad Pro (iOS 8+)"
+    },
+    {
+      "size": 180,
+      "name": "touch-icon-iphone-retina.png",
+      "description": "iPhone 6 Plus (iOS 8+)"
+    }
+  ]
+}
+
